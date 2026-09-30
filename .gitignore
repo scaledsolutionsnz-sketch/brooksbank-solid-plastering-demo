@@ -1,0 +1,5 @@
+_build/
+.vercel
+.env*
+.DS_Store
+node_modules
